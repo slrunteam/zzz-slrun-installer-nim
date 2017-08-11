@@ -1,0 +1,2 @@
+const downloadUrl* = "http://www.slrun.me/releases/slrun-{env}-{version}.zip"
+const appName* = "slrun"
